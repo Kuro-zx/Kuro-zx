@@ -1,17 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kuro-zx</h1>
+<p align="center">
+  <i>นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน</i>
+</p>
 
-สวัสดีครับผม Kuro-zx ไม่มีความหมายหรอก 👋
-นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
+<!-- GIF ตกแต่งตรงกลาง -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtNDNpZ243Y3JvdW1zOHR1YmJueW84Z3A1ZnlneG9ncTh2ZXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="380" alt="Coding GIF">
+</p>
 
-🌱 กำลังเรียนรู้
-พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
-HTML และ CSS
-การใช้ Git และ GitHub
-🎯 สนใจไปทางไหน
-Roblox
-ระบบสมองกลฝังตัว (Embedded systems) และ IoT
-เครือข่ายคอมพิวเตอร์
-การพัฒนาเว็บ
-📌 ผลงาน
-ยังอยู่ในช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น ติดตามได้ที่เว็บไซต์ด้านบน
-![Uploading image.png…]()
+---
+
+### 👨‍💻 About Me
+* 🌱 **กำลังเรียนรู้:** พื้นฐานอินเทอร์เน็ตและบริการออนไลน์, HTML & CSS, Git & GitHub
+* 🎯 **สนใจเป็นพิเศษ:** Embedded Systems & IoT | Computer Networks | Web Development | Roblox
+* 📌 **ผลงาน:** ยังอยู่ในช่วงเริ่มต้น สะสมผลงานทีละชิ้น ติดตามได้เรื่อยๆ ครับ
+
+---
+
+### 🛠 Tech & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🌐 My Website
+[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](ใส่_URL_เว็บไซต์ของคุณที่นี่)
