@@ -5,7 +5,7 @@
 
 <!-- Anime Coding GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/SqUrGoxwZ-EAAAAi/cosmic-princess-kaguya-yachiyo-runami.gif">
+  <img src="https://media.tenor.com/AAMEFNsRaeEAAAAM/anime-girl.gif">
 </p>
 
 ---
