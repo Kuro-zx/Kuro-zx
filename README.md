@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="URL_ของกรอบ_หรือ_Banner_เท่ๆ_ถ้ามี_(ถ้าไม่มีให้ลบ_หรือ_คอมเมนต์บรรทัดนี้)" width="100%" alt="Header Banner">
-</p>
 
 <!-- ********** HEADER SECTION: KURO-ZX ********** -->
 <div align="center">
