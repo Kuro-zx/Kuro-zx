@@ -9,7 +9,7 @@
     <b>Student @ RMUTI | Comp Eng (Year 1)</b>
   </p>
   <br />
-       <img src="https://media1.tenor.com/m/P7rKclL123oAAAAC/%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%AD.gif"/>
+       <img src="https://media.tenor.com/seGvGe7Cp2cAAAAi/anime-bocchi.gif"/>
        <br /><br 
 
 </div>
