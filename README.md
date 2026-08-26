@@ -5,7 +5,7 @@
 
 <!-- Anime Coding GIF -->
 <p align="center">
-  <img src="https://tenor.com/th/search/anime-gifs.gif" width="400" alt="Anime Coding GIF">
+  <img src="https://tenor.com/th/search/anime-gifs" width="400" alt="Anime Coding GIF">
 </p>
 
 ---
