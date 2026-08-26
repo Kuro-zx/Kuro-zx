@@ -5,7 +5,7 @@
 
 <!-- Anime Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJuMXA1dnRibXB0OWY1dXdhaXlycnN3NGlyOHR0dzhwZDJlbmZ1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" alt="Anime Coding GIF">
+  <img src="https://tenor.com/th/search/anime-gifs.gif" width="400" alt="Anime Coding GIF">
 </p>
 
 ---
@@ -31,6 +31,3 @@
 [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](ใส่_URL_เว็บไซต์ของคุณที่นี่)
 
 ---
-
-### 🌐 My Website
-[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](ใส่_URL_เว็บไซต์ของคุณที่นี่)
