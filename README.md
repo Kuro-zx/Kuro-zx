@@ -3,9 +3,9 @@
   <i>นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน</i>
 </p>
 
-<!-- GIF ตกแต่งตรงกลาง -->
+<!-- Anime Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtNDNpZ243Y3JvdW1zOHR1YmJueW84Z3A1ZnlneG9ncTh2ZXA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="380" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJuMXA1dnRibXB0OWY1dXdhaXlycnN3NGlyOHR0dzhwZDJlbmZ1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="400" alt="Anime Coding GIF">
 </p>
 
 ---
@@ -24,6 +24,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 🌐 My Website
+[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](ใส่_URL_เว็บไซต์ของคุณที่นี่)
 
 ---
 
