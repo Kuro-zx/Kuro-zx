@@ -5,7 +5,7 @@
 
 <!-- Anime Coding GIF -->
 <p align="center">
-  <img src="https://tenor.com/th/search/anime-gifs" width="400" alt="Anime Coding GIF">
+  <img src="https://media.tenor.com/u84Puhj8hscAAAAC/anime-typing.gif" width="400" alt="Anime Coding GIF">
 </p>
 
 ---
@@ -29,5 +29,3 @@
 
 ### 🌐 My Website
 [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](ใส่_URL_เว็บไซต์ของคุณที่นี่)
-
----
