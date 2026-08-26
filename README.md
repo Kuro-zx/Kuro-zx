@@ -9,12 +9,8 @@
     <b>Student @ RMUTI | Comp Eng (Year 1)</b>
   </p>
   <br />
-
-  <!-- // คอมเมนต์สำหรับใส่ GIF ทีหลัง // 
-       เมื่อได้ไฟล์ GIF มาแล้ว ให้นำโค้ดด้านล่างนี้ไปวางแทนที่คอมเมนต์นี้
        <img src="<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>">
        <br /><br />
-  -->
 
 </div>
 
