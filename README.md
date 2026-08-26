@@ -9,7 +9,7 @@
     <b>Student @ RMUTI | Comp Eng (Year 1)</b>
   </p>
   <br />
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+       <img src="https://media1.tenor.com/m/P7rKclL123oAAAAC/%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%AD.gif"/>
        <br /><br 
 
 </div>
